@@ -1,0 +1,61 @@
+# ninja log v6
+86	220	7858240500470791	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+1091	13019	7858218216909939	CMakeFiles/SQLiteVisor.dir/visor.cpp.obj	d0e70bcd5899575a
+86	220	7858240500470791	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+296	8946	7858219804456454	CMakeFiles/SQLiteVisor.dir/main_visor.cpp.obj	11b901ca45f403f2
+86	220	7858240500470791	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+86	220	7858240500470791	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+1088	12294	7858218216909939	CMakeFiles/SQLiteVisor.dir/main.cpp.obj	6067351525c4490c
+1085	13056	7858218216909939	CMakeFiles/SQLiteVisor.dir/SQLiteVisor_autogen/mocs_compilation.cpp.obj	5e46406a738a58b0
+1095	13139	7858218217066175	CMakeFiles/SQLiteVisor.dir/query_visor.cpp.obj	ab0bfdff78d02f5d
+222	873	7858240501828830	SQLiteVisor.exe	f178d1003f678d1b
+26	58	7858245756268255	CMakeFiles/clean.additional	9377104310d8a2a4
+59	87	7858245756596580	clean	994f362e64dcfed3
+25	54	7858245790422641	CMakeFiles/clean.additional	9377104310d8a2a4
+54	81	7858245790854703	clean	994f362e64dcfed3
+41	74	7858245828822342	CMakeFiles/clean.additional	9377104310d8a2a4
+75	103	7858245829162143	clean	994f362e64dcfed3
+69	887	7858245984305470	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+69	887	7858245984305470	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+69	887	7858245984305470	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+69	887	7858245984305470	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+892	19296	7858245984878513	CMakeFiles/SQLiteVisor.dir/main.cpp.obj	c5ebdd6469fcf8d7
+895	19790	7858245984878513	CMakeFiles/SQLiteVisor.dir/visor.cpp.obj	19e1d65aac5de766
+890	20037	7858245984878513	CMakeFiles/SQLiteVisor.dir/SQLiteVisor_autogen/mocs_compilation.cpp.obj	24f245deb7320777
+902	20280	7858245984878513	CMakeFiles/SQLiteVisor.dir/main_visor.cpp.obj	f6cda0789a091d93
+898	20431	7858245984878513	CMakeFiles/SQLiteVisor.dir/query_visor.cpp.obj	1f518906d303777a
+20431	20606	7858246180311990	SQLiteVisor.exe	8006e49304a2aee2
+140	317	7858251248367323	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+140	317	7858251248367323	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+140	317	7858251248367323	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+140	317	7858251248367323	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+129	286	7858251491699074	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+129	286	7858251491699074	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+129	286	7858251491699074	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+129	286	7858251491699074	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+290	11153	7858251493407699	CMakeFiles/SQLiteVisor.dir/main.cpp.obj	c5ebdd6469fcf8d7
+75	263	7858251669646287	SQLiteVisor.exe	8006e49304a2aee2
+104	272	7858252275552971	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+104	272	7858252275552971	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+104	272	7858252275552971	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+104	272	7858252275552971	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+276	11659	7858252277187357	CMakeFiles/SQLiteVisor.dir/main.cpp.obj	c5ebdd6469fcf8d7
+11660	11887	7858252391094055	SQLiteVisor.exe	8006e49304a2aee2
+133	295	7858252720870308	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+133	295	7858252720870308	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+133	295	7858252720870308	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+133	295	7858252720870308	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+298	10945	7858252722514312	CMakeFiles/SQLiteVisor.dir/main.cpp.obj	c5ebdd6469fcf8d7
+10945	11148	7858252828898840	SQLiteVisor.exe	8006e49304a2aee2
+121	274	7858253525579971	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+121	274	7858253525579971	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+121	274	7858253525579971	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+121	274	7858253525579971	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+276	12535	7858253527022030	CMakeFiles/SQLiteVisor.dir/main_visor.cpp.obj	f6cda0789a091d93
+12536	12811	7858253649702893	SQLiteVisor.exe	8006e49304a2aee2
+126	292	7858254219549617	SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+126	292	7858254219549617	SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+126	292	7858254219549617	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/timestamp	88bd15e12a69c8c0
+126	292	7858254219549617	C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/SQLiteVisor_autogen/mocs_compilation.cpp	88bd15e12a69c8c0
+294	12431	7858254221110029	CMakeFiles/SQLiteVisor.dir/main_visor.cpp.obj	f6cda0789a091d93
+12432	12620	7858254342558116	SQLiteVisor.exe	8006e49304a2aee2

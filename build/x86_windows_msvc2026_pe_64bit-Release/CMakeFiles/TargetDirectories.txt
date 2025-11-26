@@ -1,0 +1,5 @@
+C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/CMakeFiles/SQLiteVisor.dir
+C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/CMakeFiles/SQLiteVisor_autogen_timestamp_deps.dir
+C:/Users/Eva Stanger/Music/Cyclops/Cyclops/build/x86_windows_msvc2026_pe_64bit-Release/CMakeFiles/SQLiteVisor_autogen.dir
