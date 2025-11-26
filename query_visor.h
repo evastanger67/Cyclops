@@ -42,7 +42,7 @@ private:
   QString database_path;
   void setupUI();
   void setupQueries();
-  void runQuery(const QString &query); // Добавлен этот метод
+  void runQuery(const QString &query);
 
   QSqlDatabase m_database;
   QSqlQueryModel *m_model;

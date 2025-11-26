@@ -19,16 +19,15 @@ void MainVisor::setupUI()
   layout->setContentsMargins(20, 20, 20, 20);
   layout->setSpacing(15);
 
-         // Кнопка открытия базы данных
   m_openDbBtn = new QPushButton("Открыть базу данных", this);
   m_openDbBtn->setMinimumHeight(40);
 
-  // Статус базы данных
+
   m_statusLabel = new QLabel("База данных не открыта", this);
   m_statusLabel->setAlignment(Qt::AlignCenter);
   m_statusLabel->setStyleSheet("QLabel { background-color: #000000; padding: 8px; border: 1px solid #cc0000; }");
 
-  // Кнопки инструментов
+
   QHBoxLayout *toolsLayout = new QHBoxLayout();
   m_tableViewerBtn = new QPushButton("Просмотрщик таблиц", this);
   m_queryExecutorBtn = new QPushButton("Исполнитель SQL", this);
